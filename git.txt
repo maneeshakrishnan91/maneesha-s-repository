@@ -1,0 +1,27 @@
+for git
+Arun@DESKTOP-4KSVP4V MINGW64 ~
+$ git config --global user.name "maneeshakrishnan91"
+
+Arun@DESKTOP-4KSVP4V MINGW64 ~
+$ git config --global user.email "maneeshakrishnan91@gmail.com"
+
+Arun@DESKTOP-4KSVP4V MINGW64 ~
+$ mkdir myproject
+
+Arun@DESKTOP-4KSVP4V MINGW64 ~
+$ cd myproject
+
+Arun@DESKTOP-4KSVP4V MINGW64 ~/myproject
+$ git init
+Initialized empty Git repository in C:/Users/Arun/myproject/.git/
+
+Arun@DESKTOP-4KSVP4V MINGW64 ~/myproject (master)
+$ git commit -m "my first commit"
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Arun@DESKTOP-4KSVP4V MINGW64 ~/myproject (master)
+$
